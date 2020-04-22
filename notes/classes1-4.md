@@ -210,3 +210,146 @@ Homework is hacksplanning and web security certificate
 - How many ways to encrypt somethin
 # https://www.eff.org/ 
 # The highest number that can be represented by 8 bit 
+
+# First Activity: https://codemoji.org/#/share
+
+Lesson 2 (CIO Perspectives):
+Talk about role as CIO and how cyber threats affect CIO authorities and the stakes involved
+As CIO
+Responsible for controlling Information Technology Resources
+Oversee people, process and technology to make sure they deliver outcomes that goals of the business
+Includes everything from end user computing, enterprise applications, data and voice communication systems to deciding on the companies broader IT direction.
+We want to
+Streamline business processes
+Improve Overall Experience
+Increase Productivity of Employees
+Create Competitive Advantage
+Show the results
+Data breaches and ransomware
+Keeping up with th growing attacks
+These problems can cause
+Internal and third-party investigation
+Regulatory filings
+Sarbanes-Oxley
+Graham-Leach-Bliley
+HIPPA
+GDPR
+Lawsuits and fines
+Every technology has its own software to secure it, to maintain these are more complexicated and expensive.
+Public knowing about it can
+Create investor concern and speculation
+Drive down market capitalization
+Questions:
+When investments are made in IT infrastructure, what should a CIO do next? Show how these investments deliver measurable results.
+
+Lesson 3 (CISO Perspective):
+Chief Information Security Officer
+Talk about my role and how cyber attacks affect my motives, priorities and the stakes involved.
+My role has evolved
+Security Operations
+Governance
+Also: Big Picture: How security enables the entire business
+To be successful: I must work with
+CEO
+COO
+CFO
+General counsel
+To understand the entire business
+My goal is to protect data confidentiality, integrity and availability. I must understand the overall value of our intellectual property assets and security reputation, ensure their reasonable protection and manage the risks to all our critical resources.
+Deliver risk assessments
+Top leadership roles
+Partnershipship development
+Senior customer engagement
+Understand risk
+Prepare for the worst
+Consequences
+Customers info being leaked
+Huge fines
+
+
+Identify how assets should be accessed
+
+Lesson 4 (CFO Perspective):
+Report the CEO 
+Primary responsibility is helping set investment and spending priorities while managing company risks across a wide range of areas including financial compliance, and regulatory.
+Report finance performance
+Priortixe 
+Debt versus 
+Negotiate
+Maintain operating budgets
+Ensure our external reporting
+Ensure we are compliant with all regulatory frameworks
+Enterprise Resource Planning
+Need accurate data
+Key advisory for investment decisions
+Don’t get it right
+Expensive fines
+Risk
+Data is new gold
+
+Personal Security Awareness
+Passwords
+Allow access based on something only you would know
+Recommendation: Use different passwords for each system.
+Can use password manager
+Change Passwords Regularly
+Two-Factor-Authentication
+What you know
+What you have (Hardware token), (Software token - In an installed app)
+Recommendation: If two factor authentication is available use it.
+Email
+Common form of Malware attacks
+Through attachments
+Make your email not more attractive to attackers disable downloads and attachments
+For payments use another form of communication to confirm
+Phishing 
+Masquerading sender
+Trick you into:
+Supplying sensitive information
+Recommendation: Not a good idea to click on links via email
+Spear Phishing = Targeted Mailing
+Wanting to break into a specific company
+Watering Hole Attack
+Try to trick people
+Backups
+Let you restore any particular time in the 
+Not part of the computer
+Archive for future generations
+Recommendation: Set your computer to automatically install critical updates. Check applications for updates too!
+Do not use older, unsupported versions of computer operating systems.
+Microsoft Windows XP
+Forticlient.com
+Protect for vulnerabilities
+Questions:
+What percentage of malware is distributed by email?
+Over 50%
+What action can be taken in advance to help protect your data from corruption from malware?
+Set up regular backups.
+
+Key CyberSecurity Terms
+Had a door to the house to keep the cold air out, but when someone came in and stole our valuables be put a lock on the door so only someone who knows how to break into locks could break in
+Attack Surface:
+Any place in our environment that a bad actor can use to gain entry to, or extract something of value from, the places we want to protect
+Similar to a house where we had to add a door and a look 
+IT Environment
+Total Attack Surface
+Networks, Servers, Computers, Data Centers, Variety of Cloud Services, Employees, Customers, Business Partners 
+/|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\ /|\  /|\
+Contributing Factors to our total attack surface area.
+What can we do about this?
+First identify where the Attack Surface are located
+Restrict access
+To reduce the attack surface
+Bugs in software
+Keep software patches up to date
+Humans
+Be no longer 
+With each new technology you add the Attack Surface will grow
+Make check and securing a continuous process
+Attack Surface:
+Any exposed place in our environment that a bad actor can use to gain entry to, or extract something of value from the places that we want to protect
+Goal of Cybersecurity professionals
+Attack Surface:
+Reduce Attack Surface equals
+Reduced Risk of Attack equals
+Reduced Exposure to Unexpected Costs & Impacts

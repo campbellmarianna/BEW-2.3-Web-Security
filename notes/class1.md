@@ -40,7 +40,7 @@ Coll
 ### Social Engineering
 - Lokes for the weakest 
 - Social Engineering expolicits poor awareness
-[TEDxSanAntonio - Brian Brushwood - Social Engineering - How to Scam Your Way into Anything](https://www.youtube.com/watch?v=yY-lMkeZVuY)
+- [TEDxSanAntonio - Brian Brushwood - Social Engineering - How to Scam Your Way into Anything](https://www.youtube.com/watch?v=yY-lMkeZVuY)
     - "using durty psychological tricks to get people to do what you want"
     - "...anytime that I sound smart is because I'm standing on the shoulders of giants, brillant social mechanics, brillant scientists have written fantastic papers about this and if you want to see the background on all of this it all has been written up in Robert B.Cialdini's book "Influence" fantastic work. "
     - Psychological (open doors):
